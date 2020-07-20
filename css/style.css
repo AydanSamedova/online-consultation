@@ -1126,7 +1126,7 @@ body {
 
 .service-visit .service-bg-wrapper {
   height: 511px;
-  background: url(/image/pic/service-bg.jpg);
+  background: url(../image/pic/service-bg.jpg);
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
